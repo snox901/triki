@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+   <h1>Triki</h1>
+   <table id="board">
+    <tr>
+     <td class="cell"></td>
+     <td class="cell"></td>
+     <td class="cell"></td>
+    </tr>
+    <tr>
+     <td class="cell"></td>
+     <td class="cell"></td>
+     <td class="cell"></td>
+    </tr>
+    <tr>
+     <td class="cell"></td>
+     <td class="cell"></td>
+     <td class="cell"></td>
+    </tr>
+    </table>
+<button id="reset>Reset</button>
+<script src="script.js"></script>
+</body>
+</head>
